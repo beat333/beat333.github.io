@@ -1,16 +1,16 @@
 actors:
-  alice:
+  Tachu:
     image_url: /images/actors/alice.png
-    name: alice
-    url: http://sns.example.com/alice
+    name: タチュ
+    url: https://twitter.com/Imokenpiman
   bob:
     image_url: /images/actors/bob.png
     name: bob
     url: http://sns.example.com/bob
-author: alice
-description: Example description
-description_long: Example long description
-email: info@example.com
+author: Tachu
+description: 説明文
+description_long: 長い説明文
+email: testcopyrights+beat333
 exclude:
   - docker
   - docker-compose.yml
@@ -20,14 +20,14 @@ exclude:
   - README.md
   - vendor
 google_analytics:
-hashtag: examplehashtag
+hashtag: beat333
 itunes_podcast_url:
-keywords: comma,separated,keywords
+keywords: 雑談,フリートーク
 language: ja
 markdown: kramdown
 permalink: /episode/:title
 sass:
   sass_dir: css
 timezone: Asia/Tokyo
-title: Example title
-url: http://example.com
+title: 三三三拍子
+url: https://twitter.com/Imokenpiman
